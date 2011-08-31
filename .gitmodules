@@ -1,3 +1,6 @@
 [submodule "ns5_h3k4me3_chipseq"]
 	path = ns5_h3k4me3_chipseq
 	url = git@github.com:cassj/ns5_h3k4me3_chipseq.git
+[submodule "ns5dastro_h34kme3_chipseq"]
+	path = ns5dastro_h34kme3_chipseq
+	url = git@github.com:cassj/ns5dastro_h34kme3_chipseq.git
